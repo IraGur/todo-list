@@ -27,7 +27,7 @@ while (true) {
    } else if (input === "quit") {
       break;
    } else {
-      newTodo = alert("Please enter a valid command");
+      alert("Please enter a valid command");
    }
 }
 
